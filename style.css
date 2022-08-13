@@ -1,0 +1,24 @@
+.botones{
+    width: 60px;
+    height: 30px;
+    border: 6 px solid;
+    border-radius: 16 px;
+    background-color: #F8F32B;
+    color: #008F39;
+    cursor: pointer;
+    font-family: Helvetica;
+}
+
+#tiempo{
+    font-size: 75px;
+    color: #008F39;
+    font-family: Helvetica;
+}
+
+#contenedor{
+    text-align: center;
+    border: 4px solid;
+    border-radius: 30 px;
+    background-color: #F8F32B;
+}
+

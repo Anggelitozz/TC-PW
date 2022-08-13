@@ -1,0 +1,38 @@
+body{
+    font-size: 80px;
+}
+#lista{
+    background-color: rgb(52, 120, 210);
+    position:absolute; top:50%; left:5%;
+    width: 58%;
+    border-radius: .5em;
+}
+#nolista{
+    padding-left: 30%;
+    padding-right: 30%;
+    border-radius: .5em;
+}
+#entrada{
+    background-color: rgb(231, 206, 96);
+    position:absolute; top:30%; left:5%;
+    width: 55%;
+    height: 10%;
+    border-radius: .5em;
+    font-size: 50px;
+}
+#agregar{
+    background-color: rgb(96, 231, 227);
+    position:absolute; top:30%; left:70%;
+    width: 25%;
+    border-radius: .5em;
+    height: 10%;
+    font-size: 50px;
+}
+#borrar{
+    background-color: rgb(255, 0, 34);
+    position:absolute; top:50%; left:70%;
+    width: 25%;
+    border-radius: .5em;
+    height: 10%;
+    font-size: 50px;
+}
